@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	service "github.com/cloudnativego/backing-fulfillment/service"
+	service "github.com/horis233/backing-fulfillment/service"
 )
 
 func main() {
